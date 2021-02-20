@@ -9,6 +9,8 @@ The are 6 types of eligible citizens that can vote: regular citizen, candidate, 
 All citizens must be 18 years. Soldiers are all citizens between the ages of 18 and 21. 
 Candidates are citizens and must be at least 21 years old. 
 Sick citizens can vote only in the designated ballot box for quarantined citizens.
+There is a special ballot box for each type of citizen (only regular citizens and candidates can vote in the same ballot box).
+
 
 The system features:
 1. Add a new ballot box
