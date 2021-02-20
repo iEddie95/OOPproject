@@ -13,13 +13,13 @@ There is a special ballot box for each type of citizen (only regular citizens an
 
 
 The system features:
-1. Add a new ballot box
-2. Add a new Citizen (and assign to a ballot box)
+1. Add a new ballot box.
+2. Add a new Citizen (and assign to a ballot box).
 3. Add a new party that will particiapte in the elections.
 4. Add a new candidate to a party (creates new citizen).
 5. Print all ballot boxes.
 6. Print all citizens.
 7. Print all partites.
-8. Start the elections (each citizen can pick a vote)
-9. Show the results
+8. Start the elections (each citizen can pick a vote).
+9. Show the results.
 
