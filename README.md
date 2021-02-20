@@ -5,7 +5,7 @@ The project is a program for managing an elections system during the Corona pand
 The project is written in Java with JavaFX UI.
 
 Project background:
-The are 6 types of alligable citzens that can vote: regular citizen, candidate, sick candidate, Corona sick, soldier, sick soldier.
+The are 6 types of eligible citzens that can vote: regular citizen, candidate, sick candidate, Corona sick, soldier, sick soldier.
 All citizens must be 18 years.
 Soldiers are all citizens between the ages of 18 and 21.
 Candidates are citizens and must be at least 21 years old.
