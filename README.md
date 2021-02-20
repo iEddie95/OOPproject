@@ -2,7 +2,7 @@
 Java OOP final project- first year
 
 The project is a program for managing an election system during the Corona pandemic.
-The project is written in Java with JavaFX UI.
+The project is written in Java with JavaFX UI implementing the MVC model.
 
 Project background: 
 The are 6 types of eligible citizens that can vote: regular citizen, candidate, sick candidate, Corona sick, soldier, sick soldier. 
