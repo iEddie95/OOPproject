@@ -14,7 +14,7 @@ There is a special ballot box for each type of citizen (only regular citizens an
 
 The system features:
 1. Add a new ballot box.
-2. Add a new Citizen (and assign to a ballot box).
+2. Add a new citizen (and assign to a ballot box).
 3. Add a new party that will particiapte in the elections.
 4. Add a new candidate to a party (creates new citizen).
 5. Print all ballot boxes.
