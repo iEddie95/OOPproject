@@ -4,7 +4,7 @@ Java OOP final project- first year
 The project is a program for managing an election system during the Corona pandemic.
 The project is written in Java with JavaFX UI implementing MVC.
 
-Project background: 
+Project overview: 
 The are 6 types of eligible citizens that can vote: regular citizen, candidate, sick candidate, Corona sick, soldier, sick soldier. 
 All citizens must be 18 years. Soldiers are all citizens between the ages of 18 and 21. 
 Candidates are citizens and must be at least 21 years old. 
