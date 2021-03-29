@@ -26,3 +26,7 @@ The system features:
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/62745598/112825141-12ce4680-9094-11eb-935a-7e0446be5988.png)
+![image](https://user-images.githubusercontent.com/62745598/112825189-24175300-9094-11eb-9427-b1e1b3c638e8.png)
+![image](https://user-images.githubusercontent.com/62745598/112825200-27124380-9094-11eb-82bc-07dde917097d.png)
+![image](https://user-images.githubusercontent.com/62745598/112825209-29749d80-9094-11eb-88ac-b09db9d977e5.png)
+![image](https://user-images.githubusercontent.com/62745598/112825222-2d082480-9094-11eb-8ab5-f88e24396810.png)
