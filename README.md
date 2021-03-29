@@ -23,3 +23,10 @@ The system features:
 8. Start the elections (each citizen can pick a vote).
 9. Show the results.
 
+Screenshots:
+
+![image](https://user-images.githubusercontent.com/62745598/112823000-5f645280-9091-11eb-8e45-69fa843bade2.png)
+![image](https://user-images.githubusercontent.com/62745598/112823051-6e4b0500-9091-11eb-8c5c-7784b88e5dd6.png)
+![image](https://user-images.githubusercontent.com/62745598/112823061-72772280-9091-11eb-91a5-14ae1d14f392.png)
+![image](https://user-images.githubusercontent.com/62745598/112823067-76a34000-9091-11eb-94cc-03c2a7bb8dd9.png)
+![image](https://user-images.githubusercontent.com/62745598/112823081-7a36c700-9091-11eb-98a7-6279d6a29616.png)
